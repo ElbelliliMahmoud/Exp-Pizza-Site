@@ -36,4 +36,9 @@ export const MenuList = [
     image: Expensive,
     price: 17.99,
   },
+   {
+    name: "Lot Expensive Pizza",
+    image: Expensive,
+    price: 20.99,
+  },
 ];
